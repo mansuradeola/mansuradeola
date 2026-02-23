@@ -40,7 +40,7 @@ Here are some of my key projects demonstrating my skills and interests:
 ## 📫 Connect with Me
 - LinkedIn: [Mansur Adeola](https://www.linkedin.com/in/mansur-a-682563142)  
 - Email: mansuradeola@gmail.com  
-- Portfolio: *(Coming soon)*
+- Portfolio: https://linktr.ee/mansuradeola
 
 ---
 
